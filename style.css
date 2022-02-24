@@ -16,11 +16,13 @@ header .container{
 .logo{
     margin-right: auto;
     color: #e50914;
+    height: 30px;
 }
 
 .container nav a{
     text-decoration: none;
     color: white;
+    margin: 0 5px;
 }
 
 .container nav a:visited{

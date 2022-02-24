@@ -13,7 +13,7 @@ header .container{
     padding: 2px;
 }
 
-.logo{
+.container .logo{
     margin-right: auto;
     /* color: #e50914; */
     height: 30px;
